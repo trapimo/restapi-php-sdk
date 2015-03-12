@@ -1,16 +1,16 @@
 {
-    "name": "immocaster/php-sdk",
+    "name": "trapimo/is24-restapi-php-sdk",
     "type": "library",
     "description": "ImmobilienScout24 PHP-SDK",
     "keywords": ["immobilienscout24","estate","real estate","realtor"],
-    "homepage": "http://github.com/immocaster/php-sdk",
+    "homepage": "https://github.com/trapimo/restapi-php-sdk",
     "license": "FreeBSD",
     "authors": [
         {
-            "name": "Norman Braun",
-            "email": "office@immocaster.com",
-            "homepage": "http://www.immocaster.com",
-            "role": "CEO and Developer"
+            "name": "Moritz Hesse",
+            "email": "moritz@team.trapimo.org",
+            "homepage": "http://www.trapimo.org",
+            "role": "Founder"
         }
     ],
     "require": {
